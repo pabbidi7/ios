@@ -696,7 +696,7 @@ def get_local_image(cuisine_type, dish_name):
         "Indian": "images/indian.jpg",
         "Italian": "images/italian.jpg",
         "Mexican": "images/mexican.jpg",
-        "Chinese": "images/chinese.jpg",
+        "Chinese": "images/chinese.webp",
         "American": "images/american.jpg",
         "Mediterranean": "images/mediterranean.jpg"
     }
